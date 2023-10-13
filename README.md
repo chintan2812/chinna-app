@@ -26,8 +26,10 @@ GitHub hosts the source code and allows for collaboration among developers.
 
 Integrating these tools can result in an efficient and automated software development pipeline, ensuring code quality and facilitating the deployment of applications to production environments.
 
+Jenkins CI-CD build stages.
 ![image](https://github.com/chintan2812/chinna-app/assets/142546141/8e5ddb90-50c6-48eb-a178-b858e31f6f13)
 ![image](https://github.com/chintan2812/chinna-app/assets/142546141/1ca0cc04-560a-423e-bcfe-75238be7a985)
+Jenkins CI-CD webpage working successfully.
 ![image](https://github.com/chintan2812/chinna-app/assets/142546141/f10e370b-e57c-4871-9635-2c042b071508)
 
 
