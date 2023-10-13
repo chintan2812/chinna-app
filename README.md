@@ -1,1 +1,1 @@
-# chinna-app
+Jenkins, Maven, SonarQube, Nexus, Tomcat, and GitHub are all popular tools and technologies often used in the context of software development and continuous integration and continuous deployment (CI/CD) pipelines.
